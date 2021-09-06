@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adeleke Ayinde</h1>
-<h3 align="center">A passionate Software Developer that love to solve problems and buigitld soluions.</h3>
+<h3 align="center">A passionate Software Developer that love to solve problems and build soluions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lekea4&label=Profile%20views&color=0e75b6&style=flat" alt="lekea4" /> </p>
 
